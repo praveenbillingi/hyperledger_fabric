@@ -9,6 +9,12 @@ Blockchain-based asset management system using Hyperledger Fabric.
 - Docker
 - Fabric CA
 
+### Level-1: Fabric test network setup
+
+### Level-2: Golang smart contract (chaincode)
+
+### Level-3: REST API & Docker (optional, can add later)
+
 ## 🚀 Setup
 
 ### 1. Install Fabric Samples
