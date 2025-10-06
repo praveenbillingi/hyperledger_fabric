@@ -12,7 +12,6 @@ Blockchain-based asset management system using Hyperledger Fabric.
 ## 🚀 Setup
 
 ### 1. Install Fabric Samples
-```bash
 curl -sSL https://bit.ly/2ysbOFE | bash -s
 
 ### 2. Start test network
